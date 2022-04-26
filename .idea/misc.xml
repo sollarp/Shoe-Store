@@ -14,10 +14,17 @@
         <entry key="app/src/main/res/font/aldrich.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/font/bangers.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2296195652173913" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.10625" />
+        <entry key="app/src/main/res/layout/blank_fragment.xml" value="0.14270833333333333" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.3222748815165877" />
+        <entry key="app/src/main/res/layout/fragment_instructions.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.22826086956521738" />
         <entry key="app/src/main/res/layout/login_fragment.xml" value="0.125" />
         <entry key="app/src/main/res/layout/login_screen.xml" value="0.2296195652173913" />
         <entry key="app/src/main/res/layout/navigation.xml" value="0.22" />
+        <entry key="app/src/main/res/menu/logout_menu.xml" value="0.24947916666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.153" />
       </map>
     </option>
   </component>
